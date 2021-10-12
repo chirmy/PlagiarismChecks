@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="taskButtonClicked">#FFEB3B</color>
+    <color name="taskButtonunClicked">#FFEB3B</color>
 </resources>

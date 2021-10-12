@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/localCheckup_item"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="本都查重"
+        app:showAsAction="ifRoom|withText"
+        />
+    <item
+        android:id="@+id/classes_item"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="我的班级"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/setting_item"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="设置"
+        app:showAsAction="never"
+        />
+</menu>
